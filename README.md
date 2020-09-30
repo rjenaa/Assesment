@@ -104,5 +104,5 @@ Entrepreneur should be paid : 20000.0
 ### Part 5 - You must now system out:
 - I freakin killed it then take a nice lil 30 minute break once your code has been reviewed by Mikaila
 
-![UML](images/EmployeeUML (1).png)
+![UML](images/EmployeeUML.png)
 
